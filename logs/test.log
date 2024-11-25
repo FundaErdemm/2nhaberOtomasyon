@@ -1,0 +1,575 @@
+2024-08-26 19:31:19 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-26 19:31:27 INFO  LoginTests:15 - İlk ürüne tıklanıyor.
+2024-08-26 19:31:30 INFO  LoginTests:19 - Sepete ekle butonu bulundu.
+2024-08-26 19:31:30 INFO  LoginTests:26 - Test tamamlandı: teknosagiristesti
+2024-08-27 14:04:47 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-27 14:05:03 INFO  LoginTests:15 - İlk ürüne tıklanıyor.
+2024-08-27 14:05:32 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-27 14:05:49 INFO  LoginTests:15 - İlk ürüne tıklanıyor.
+2024-08-27 14:05:51 INFO  LoginTests:19 - Sepete ekle butonu bulundu.
+2024-08-27 14:05:51 INFO  LoginTests:26 - Test tamamlandı: teknosagiristesti
+2024-08-27 14:09:49 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-27 14:10:09 INFO  LoginTests:15 - İlk ürüne tıklanıyor.
+2024-08-27 14:10:11 INFO  LoginTests:19 - Sepete ekle butonu bulundu.
+2024-08-27 14:10:11 INFO  LoginTests:25 - Test tamamlandı: teknosagiristesti
+2024-08-27 14:11:07 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-27 14:11:28 INFO  LoginTests:15 - İlk ürüne tıklanıyor.
+2024-08-27 14:11:30 INFO  LoginTests:19 - Sepete ekle butonu bulundu.
+2024-08-27 14:11:30 INFO  LoginTests:25 - Test tamamlandı: teknosagiristesti
+2024-08-27 14:16:04 INFO  LoginTests:10 - Test başlıyor: teknosagiristesti
+2024-08-27 14:16:25 INFO  LoginTests:16 - İlk ürüne tıklanıyor.
+2024-08-27 14:16:25 INFO  LoginTests:49 - Kelime bulundu!
+2024-08-27 14:16:28 INFO  LoginTests:21 - Sepete ekle butonu bulundu.
+2024-08-27 14:16:28 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:18:58 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:19:22 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:19:22 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:19:24 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:19:42 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:20:17 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:20:17 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:20:20 INFO  LoginTests:19 - Sepete ekle butonu bulundu.
+2024-08-27 17:20:20 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:23:39 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:23:57 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:23:57 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:24:00 INFO  LoginTests:63 - Sepete ekle butonu bulundu.
+2024-08-27 17:24:00 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:27:39 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:28:01 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:28:01 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:28:04 INFO  LoginTests:63 - Sepete ekle butonu bulundu.
+2024-08-27 17:28:04 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:29:02 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:29:31 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:29:31 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:29:32 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:31:05 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:31:05 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:31:14 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:31:34 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:31:34 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:31:36 INFO  LoginTests:63 - Sepete ekle butonu bulundu.
+2024-08-27 17:31:36 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-08-27 17:34:39 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-08-27 17:35:15 INFO  LoginTests:43 - İlk ürüne tıklanıyor.
+2024-08-27 17:35:15 INFO  LoginTests:50 - Kelime bulundu!
+2024-08-27 17:35:18 INFO  LoginTests:63 - Sepete ekle butonu bulundu.
+2024-08-27 17:35:18 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-11-22 15:48:04 INFO  LoginTests:22 - Test başlıyor: teknosagiristesti
+2024-11-22 15:48:14 INFO  LoginTests:29 - Test tamamlandı: teknosagiristesti
+2024-11-22 15:52:27 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-11-22 15:52:38 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-11-22 15:53:24 INFO  LoginTests:20 - Test başlıyor: teknosagiristesti
+2024-11-22 15:53:24 INFO  LoginTests:27 - Test tamamlandı: teknosagiristesti
+2024-11-22 16:52:48 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 16:52:53 INFO  LoginTests:26 - Test tamamlandı: 2nhabergiristesti
+2024-11-22 16:54:42 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 16:58:48 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:07:57 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:09:01 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:14:12 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:15:57 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:16:50 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:16:57 INFO  LoginTests:26 - Test tamamlandı: 2nhabergiristesti
+2024-11-22 17:17:14 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:17:20 INFO  LoginTests:26 - Test tamamlandı: 2nhabergiristesti
+2024-11-22 17:17:42 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:18:30 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:19:32 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:20:02 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:23:18 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:23:46 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:24:12 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:26:14 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:36:12 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:37:38 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:41:17 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:47:50 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:47:50 ERROR AramaYap:53 - Hata oluştu: no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label='search']"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc0d90d5744695ccfffcc1166d73b816, findElement {value=button[aria-label='search'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58229}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58229/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cc0d90d5744695ccfffcc1166d73b816
+2024-11-22 17:50:46 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-22 17:50:46 ERROR AramaYap:53 - Hata oluştu: no such element: Unable to locate element: {"method":"css selector","selector":"#searchButtonId"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [993567e413fd8104ba1bc77a45df0ce8, findElement {using=id, value=searchButtonId}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58449/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 993567e413fd8104ba1bc77a45df0ce8
+2024-11-24 15:41:23 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:41:23 ERROR AramaYap:53 - Hata oluştu: no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label='search']"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d41552749003d719f6af069b3c18cf65, findElement {value=button[aria-label='search'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59005}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59005/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d41552749003d719f6af069b3c18cf65
+2024-11-24 15:46:46 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:46:47 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a463de2e665cfff8a7a6661c56df5599, sendKeysToElement {id=f.DB4D72B1F019C6A51E2FBA90C1CFBA61.d.95557FD58B7FD690D25853BDF0478DE7.e.19, value=[Ljava.lang.CharSequence;@5a411614}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59369}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59369/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a463de2e665cfff8a7a6661c56df5599)] -> css selector: [name='s']]
+Session ID: a463de2e665cfff8a7a6661c56df5599
+2024-11-24 15:49:37 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:49:37 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [206b4174a749270db004ee4827da82ee, sendKeysToElement {value=[Ljava.lang.CharSequence;@5a411614, id=f.4CF7F5CFE6475D0420EA16F1AA37F8EF.d.05620BFD713C0355619619102E44B2FD.e.19}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59582}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59582/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (206b4174a749270db004ee4827da82ee)] -> css selector: [name='s']]
+Session ID: 206b4174a749270db004ee4827da82ee
+2024-11-24 15:50:27 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:50:27 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb6a3b522a573ca34a32f65f82292f49, sendKeysToElement {value=[Ljava.lang.CharSequence;@5a411614, id=f.19B07A71F4E4C72706853B08F4F8DD4F.d.57E4326FFB35EB048A2CB309AAE1E3E7.e.31}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59643}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59643/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (cb6a3b522a573ca34a32f65f82292f49)] -> css selector: .elementor-widget-cmsmasters-search__form-container]
+Session ID: cb6a3b522a573ca34a32f65f82292f49
+2024-11-24 15:51:28 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:51:29 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58271f92d027a1d05354aeaf91deadd4, sendKeysToElement {value=[Ljava.lang.CharSequence;@5a411614, id=f.55B3E7B8AC47BF37BC4E2A4B6BE29C3E.d.414EAFF5C00297DB3C69BB87765E10B1.e.20}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59717}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59717/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (58271f92d027a1d05354aeaf91deadd4)] -> css selector: [name='s']]
+Session ID: 58271f92d027a1d05354aeaf91deadd4
+2024-11-24 15:52:49 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:52:49 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [303205201fca753da6ee839fedfdb3e2, sendKeysToElement {id=f.2A6BE96D0E2F329055C29E8AC0CC096B.d.F273AE378918758A24560D1F4BA2FE23.e.19, value=[Ljava.lang.CharSequence;@54d18072}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60039}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60039/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (303205201fca753da6ee839fedfdb3e2)] -> name: s]
+Session ID: 303205201fca753da6ee839fedfdb3e2
+2024-11-24 15:55:23 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:55:23 ERROR AramaYap:54 - Hata oluştu: no such element: Unable to locate element: {"method":"xpath","selector":"s"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a870110ee4dc3dc54c8d10e37ace7e87, findElement {using=xpath, value=s}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60250}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60250/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a870110ee4dc3dc54c8d10e37ace7e87
+2024-11-24 15:56:55 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:56:55 ERROR AramaYap:54 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [93068e482976720b636ccefff2b44d76, sendKeysToElement {value=[Ljava.lang.CharSequence;@54d18072, id=f.80B9493146F19829AE2FF6E5707FBCDA.d.3E6558A0FEAC6FDA4D2B282901D0DA56.e.19}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60335}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60335/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (93068e482976720b636ccefff2b44d76)] -> class name: elementor-widget-cmsmasters-search__field]
+Session ID: 93068e482976720b636ccefff2b44d76
+2024-11-24 15:57:12 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 15:57:12 ERROR AramaYap:54 - Hata oluştu: no such element: Unable to locate element: {"method":"css selector","selector":".s"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [71065ed764b05f6be6a86aff1b8aba52, findElement {value=s, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60384}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60384/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 71065ed764b05f6be6a86aff1b8aba52
+2024-11-24 16:00:10 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:00:10 ERROR AramaYap:54 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ddf85499449119b7a11b257fe5b2c5de, sendKeysToElement {value=[Ljava.lang.CharSequence;@5a411614, id=f.E3897AB1D1063AEFEC63EE2976F3AEFB.d.53606E58E279F55CE118EB06BA680F03.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60819}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60819/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ddf85499449119b7a11b257fe5b2c5de)] -> css selector: .elementor-widget-cmsmasters-search__form-container]
+Session ID: ddf85499449119b7a11b257fe5b2c5de
+2024-11-24 16:03:29 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:03:29 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d25c046f76e890f2378fc79b24e2bfd, sendKeysToElement {value=[Ljava.lang.CharSequence;@5a411614, id=f.4DE21EE9EE91CB2C299E222161F5FFE1.d.9AD49FECF952F19BE5BDF279507AA3E1.e.19}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60988}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60988/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1d25c046f76e890f2378fc79b24e2bfd)] -> css selector: [name='s']]
+Session ID: 1d25c046f76e890f2378fc79b24e2bfd
+2024-11-24 16:06:37 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:06:37 ERROR AramaYap:53 - Hata oluştu: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [05bb662ba2f2b0b544691b34f7e685a9, findElement {value=name='s', using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61130}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61130/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 05bb662ba2f2b0b544691b34f7e685a9
+2024-11-24 16:07:15 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:07:15 ERROR AramaYap:53 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5ce31351b71dde8fbcc61d3f9be5cab, sendKeysToElement {id=f.DF6EC757908B9356B2D6523248E264A3.d.25DA947D68EC60B4F97A7CAB72C464CA.e.19, value=[Ljava.lang.CharSequence;@5a411614}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61192}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61192/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a5ce31351b71dde8fbcc61d3f9be5cab)] -> css selector: [name='s']]
+Session ID: a5ce31351b71dde8fbcc61d3f9be5cab
+2024-11-24 16:09:00 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:09:11 ERROR AramaYap:54 - Hata oluştu: Expected condition failed: waiting for presence of element located by: By.cssSelector: div.search-results (tried for 10 second(s) with 500 milliseconds interval)
+2024-11-24 16:11:51 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:11:52 ERROR AramaYap:58 - Hata oluştu: element not interactable
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f969ae559a9867e209fe8b209740d421, clickElement {id=f.9279183A7989CA67EC3E6B7D6FFC6B2C.d.E37DDF80FAE5792E7975377E8C7D711F.e.37}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61596}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61596/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (f969ae559a9867e209fe8b209740d421)] -> css selector: .elementor-widget-cmsmasters-search__form-icon]
+Session ID: f969ae559a9867e209fe8b209740d421
+2024-11-24 16:15:18 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:15:30 ERROR AramaYap:58 - Hata oluştu: Expected condition failed: waiting for presence of element located by: By.cssSelector: div.search-results (tried for 10 second(s) with 500 milliseconds interval)
+2024-11-24 16:18:36 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:18:38 ERROR AramaYap:56 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:23:39 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:23:41 ERROR AramaYap:56 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:27:41 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:27:43 ERROR AramaYap:56 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:30:55 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:30:57 ERROR AramaYap:56 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:32:08 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:32:10 ERROR AramaYap:58 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:32:28 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:34:27 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:36:06 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:37:01 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:37:04 ERROR AramaYap:58 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:43:15 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:43:18 ERROR AramaYap:58 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:47:28 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:47:30 ERROR AramaYap:58 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:47:52 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:47:54 ERROR AramaYap:58 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:50:24 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:50:26 ERROR AramaYap:59 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:51:02 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:51:05 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:54:58 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:55:02 ERROR AramaYap:63 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 3001)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [99bcefce4a17af25907912c395431cb1, clickElement {id=f.47FD3FF4660475FA7698DEC45FCFE2A2.d.91708BCC9EC21357F81E5F14CFE73421.e.164}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50824}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50824/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (99bcefce4a17af25907912c395431cb1)] -> css selector: .cmsmasters-blog__posts .post]
+Session ID: 99bcefce4a17af25907912c395431cb1
+2024-11-24 16:57:16 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:57:18 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:58:06 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:58:08 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:58:32 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:58:35 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 16:58:56 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 16:58:59 ERROR AramaYap:64 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 3001)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a446ebb70d8c90ba506092f9bc08cdf1, clickElement {id=f.D89E1C2051C0FDB26192F213769A77A3.d.95F8B5E563847BBCBC76CD47094C62A4.e.152}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51434}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51434/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a446ebb70d8c90ba506092f9bc08cdf1)] -> css selector: .cmsmasters-blog__posts .post]
+Session ID: a446ebb70d8c90ba506092f9bc08cdf1
+2024-11-24 17:00:33 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:00:35 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 17:03:51 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:03:54 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 17:04:07 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:04:10 ERROR AramaYap:64 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0498d8062514a7e1ce4559b833f3a160, clickElement {id=f.511E8CD78FA76C7F5B71942AFFA9A50E.d.02A359700D8FCFDED7D0DB61F8AF1251.e.128}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52057/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (0498d8062514a7e1ce4559b833f3a160)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 0498d8062514a7e1ce4559b833f3a160
+2024-11-24 17:05:40 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:05:41 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:06:19 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:06:21 ERROR AramaYap:64 - Hata oluştu: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c9a3f92aa2e46a4bdc6d83b3de33dd79, findElements {using=css selector, value=.cmsmasters-blog__posts*}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52531}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52531/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c9a3f92aa2e46a4bdc6d83b3de33dd79
+2024-11-24 17:06:59 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:08:40 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:08:42 ERROR AramaYap:60 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 17:10:05 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:10:09 ERROR AramaYap:70 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [155bd4c8c212f45bef10b8322b0ffbb2, clickElement {id=f.DE56CC95E3A38A75CAD6C4CCC9F4CB5C.d.62803FB3147F9BFFE57C3451EBA8157D.e.151}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53057}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53057/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (155bd4c8c212f45bef10b8322b0ffbb2)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 155bd4c8c212f45bef10b8322b0ffbb2
+2024-11-24 17:11:18 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:11:21 ERROR AramaYap:68 - Verilen index dışı, arama sonuçlarında yeterli haber yok.
+2024-11-24 17:12:30 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:12:34 ERROR AramaYap:72 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ce82631850524781f708dc5490f39291, clickElement {id=f.6BAB4F61795BE3F53815AE78E4399F84.d.F5AD8A42F023F768B80B1893BE3EE4A9.e.151}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53303}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53303/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (ce82631850524781f708dc5490f39291)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: ce82631850524781f708dc5490f39291
+2024-11-24 17:33:57 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:34:01 ERROR AramaYap:73 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2716)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1e125a202434cbc19088b18ef4062a74, clickElement {id=f.3D4BCC8DF5EA28966ADCF59DC92B215E.d.FDCCDDC2A0596204B552CB599CDCD541.e.151}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54746}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54746/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (1e125a202434cbc19088b18ef4062a74)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 1e125a202434cbc19088b18ef4062a74
+2024-11-24 17:34:25 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:34:28 ERROR AramaYap:73 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2716)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [205b205a14cbd7ef9f99a75a5a7eb62a, clickElement {id=f.CDF7E6494567C074493344E8FD4CBBC6.d.36F3F52E9FAB6E5B0AFD81DFECFCDDB6.e.152}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54803}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54803/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (205b205a14cbd7ef9f99a75a5a7eb62a)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 205b205a14cbd7ef9f99a75a5a7eb62a
+2024-11-24 17:35:26 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:35:29 ERROR AramaYap:73 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2716)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [54ef2e51f8f2d573225f5e1aecfc8250, clickElement {id=f.EB0D1AD1A9DDB3E45308D17530E161A0.d.2B4B76E0AF43C329A4562E15B1310439.e.154}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54878}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54878/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (54ef2e51f8f2d573225f5e1aecfc8250)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 54ef2e51f8f2d573225f5e1aecfc8250
+2024-11-24 17:35:50 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:36:32 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:36:35 ERROR AramaYap:73 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 1007)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3c903b0073c0849e2f67f25f9f71811a, clickElement {id=f.95E1E657B6A33B3B3B2AA66C6BA48C26.d.672433663AEED709D21A2A5FCEA079E9.e.148}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55165}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55165/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3c903b0073c0849e2f67f25f9f71811a)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 3c903b0073c0849e2f67f25f9f71811a
+2024-11-24 17:37:03 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:37:06 ERROR AramaYap:73 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2716)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [08318bbadf535235bd431f773f1cc38f, clickElement {id=f.F876D7C4079AB15C11CB9BF1036AADF1.d.5BCEC1F956A8A43C8E6EADF69B129B9C.e.152}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55349}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55349/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (08318bbadf535235bd431f773f1cc38f)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 08318bbadf535235bd431f773f1cc38f
+2024-11-24 17:37:38 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:37:51 ERROR AramaYap:66 - Hata oluştu: Expected condition failed: waiting for presence of element located by: By.cssSelector: div.search-results (tried for 10 second(s) with 500 milliseconds interval)
+2024-11-24 17:41:18 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:41:22 ERROR AramaYap:61 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d1a06c5720d3e8116626887bec1926cf, clickElement {id=f.CA7A522151287DE12067DC9F5C25F4DF.d.B3B2305F0A9C11593941F2A01418AFA6.e.126}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56354}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56354/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d1a06c5720d3e8116626887bec1926cf)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: d1a06c5720d3e8116626887bec1926cf
+2024-11-24 17:43:39 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:44:40 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:51:07 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:51:12 ERROR AramaYap:47 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [45cc63c1efb714c015cbd46f90bf495a, clickElement {id=f.14FDFC086AC4B9723284612B0F8336E3.d.FFBB971FF87807A7CFC91377A095D6F0.e.274}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57771}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57771/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (45cc63c1efb714c015cbd46f90bf495a)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 45cc63c1efb714c015cbd46f90bf495a
+2024-11-24 17:51:40 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:52:35 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:53:38 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 17:56:22 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:14:38 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:18:07 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:18:49 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:19:16 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:21:23 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:21:51 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:22:20 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:22:58 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:23:40 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:24:54 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:25:58 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:26:41 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:29:33 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:31:24 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:32:39 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:44:25 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:49:11 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:52:44 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:53:54 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-24 23:55:15 INFO  LoginTests:19 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:00:02 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:00:06 INFO  LoginTests:27 - Test başlıyor: -------------
+2024-11-25 00:01:24 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:02:57 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:04:59 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:09:01 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:18:42 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:19:50 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:25:07 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:25:48 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:27:20 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:29:10 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:29:45 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:34:17 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:36:39 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:37:15 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:38:29 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:40:40 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:43:05 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:45:07 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:48:44 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:50:32 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 00:51:02 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:02:55 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:08:17 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:10:23 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:15:47 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:19:45 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:21:43 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:23:25 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:25:14 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:29:19 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:30:30 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:32:43 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:33:59 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:39:20 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:47:19 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:57:15 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 12:58:49 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:02:02 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:02:42 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:05:23 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:05:26 ERROR AramaYap:47 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b82cc43dd3a414eb11c956fbdeab310d, clickElement {id=f.1A61C313790166DEE5084DDD2AB168AF.d.5D9FB0320B25A592EA7A9F0EF971D6E5.e.151}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56562}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56562/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b82cc43dd3a414eb11c956fbdeab310d)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: b82cc43dd3a414eb11c956fbdeab310d
+2024-11-25 13:15:05 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:15:07 ERROR AramaYap:52 - Hata oluştu: no such element: Unable to locate element: {"method":"xpath","selector":"(//article/a[contains(@class, 'cmsmasters-animation')])[8]"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2d6c7f885ac17e1bc74407e602babfd2, findElement {value=(//article/a[contains(@class, 'cmsmasters-animation')])[8], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56965}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56965/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d6c7f885ac17e1bc74407e602babfd2
+2024-11-25 13:17:35 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:17:38 ERROR AramaYap:54 - Hata oluştu: no such element: Unable to locate element: {"method":"css selector","selector":"article:nth-of-type(8) > a.cmsmasters-animation"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [116a9f10a85cbe60151c4b2d7aa67726, findElement {using=css selector, value=article:nth-of-type(8) > a.cmsmasters-animation}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57254}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57254/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 116a9f10a85cbe60151c4b2d7aa67726
+2024-11-25 13:18:20 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:18:23 ERROR AramaYap:50 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e7181f73a1b0b77ee185a7fad9ac637, clickElement {id=f.4AE92FDDFEDAF4BDD0ADCE61C4F3605B.d.89BB2FBC345DE50118A444F5F60FA437.e.135}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57346}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57346/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (3e7181f73a1b0b77ee185a7fad9ac637)] -> css selector: .cmsmasters-blog__posts > *]
+Session ID: 3e7181f73a1b0b77ee185a7fad9ac637
+2024-11-25 13:19:32 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:19:36 ERROR AramaYap:50 - Hata oluştu: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=131.0.6778.86)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97a84033a012d534d4aab607b96c58bf, findElements {value=.cmsmasters-blog__posts > 1, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57487}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57487/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 97a84033a012d534d4aab607b96c58bf
+2024-11-25 13:20:05 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:24:38 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:30:16 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:31:57 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:34:04 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:35:02 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 13:35:05 ERROR AramaYap:56 - Hata oluştu: element click intercepted: Element is not clickable at point (579, 2431)
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b519dbf7560b8ac1a44993301ac4d1d5, clickElement {id=f.FA9BFB09534EF2728A70441EA40A0B08.d.CC8D24BFDF1727CE5203C51D8F3BDF84.e.61}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59113}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59113/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b519dbf7560b8ac1a44993301ac4d1d5)] -> css selector: .cmsmasters-blog__posts >*]
+Session ID: b519dbf7560b8ac1a44993301ac4d1d5
+2024-11-25 14:31:34 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 14:32:29 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 14:33:40 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 14:48:42 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 14:49:38 INFO  LoginTests:21 - Test başlıyor: 2nhabergiristesti
+2024-11-25 14:49:38 ERROR AramaYap:56 - Hata oluştu: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [802a9e49d1c1655fe929ee2c22522c7f, findElement {using=css selector, value=.elementor-widget-cmsmasters-search__popup-trigger-container}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.86, chrome: {chromedriverVersion: 131.0.6778.85 (3d81e41b6f3a..., userDataDir: C:\Users\MONSTE~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60551}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60551/devtoo..., se:cdpVersion: 131.0.6778.86, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 802a9e49d1c1655fe929ee2c22522c7f
